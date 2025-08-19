@@ -3,5 +3,6 @@
 
 Learning Pyhton
 1. OOP ✔
-2. MVC (TBD)
-3. Framwork (TBD)
+2. OOP + Design Pattern
+3. MVC (TBD)
+4. Framwork (TBD)
